@@ -1,1 +1,1 @@
-export function downloadEmptyPlugin(secret: string, core: Uint8Array, name?: string): Promise<void>;
+export function downloadEmptyPlugin(secret: string, core: Uint8Array): Promise<void>;
